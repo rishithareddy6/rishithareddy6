@@ -3,11 +3,10 @@ I'm a B.Tech student passionate about software development, Android apps, and te
 
 ##Technical Skills
  
-Programming Languages: Python, Java, C, C++
+Programming Languages: Python, , C, C++
 Web Development: HTML, CSS, JavaScript, React
-Mobile Development: Android (Java/Kotlin)
-Databases: MySQL, Firebase
-Tools & Platforms: Git, GitHub, VS Code, Android Studio
+Databases: MySQL
+Tools & Platforms: Git, GitHub, VS Code, 
 Other Skills: Problem Solving, Data Structures & Algorithms
 
 ##project
@@ -16,7 +15,7 @@ Reporting System for Wastage of Water (Android) [In Progress]:
 An upcoming Android app to track and report water wastage in communities. 
 Planned features: real-time reporting, photo upload, notifications.
 
-📫 Contact Me
+##Contact Me
 Email: rishithareddygaddamidi@gmail.com
 GitHub: github.com/rishithareddy6
 LinkedIn: linkedin.com/in/rishitha-reddy
