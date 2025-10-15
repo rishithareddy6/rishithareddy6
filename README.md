@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Gaddamidi Rishitha 👋
+I'm a B.Tech student passionate about software development, Android apps, and tech solutions. 
 
-<!--
-**rishithareddy6/rishithareddy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Technical Skills
+ 
+Programming Languages: Python, Java, C, C++
+Web Development: HTML, CSS, JavaScript, React
+Mobile Development: Android (Java/Kotlin)
+Databases: MySQL, Firebase
+Tools & Platforms: Git, GitHub, VS Code, Android Studio
+Other Skills: Problem Solving, Data Structures & Algorithms
 
-Here are some ideas to get you started:
+##project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reporting System for Wastage of Water (Android) [In Progress]:
+An upcoming Android app to track and report water wastage in communities. 
+Planned features: real-time reporting, photo upload, notifications.
+
+📫 Contact Me
+Email: rishithareddygaddamidi@gmail.com
+GitHub: github.com/rishithareddy6
+LinkedIn: linkedin.com/in/rishitha-reddy
